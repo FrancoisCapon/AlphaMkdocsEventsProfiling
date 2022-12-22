@@ -4,7 +4,7 @@
 
 * Load the module and install it 
 ```
-python setup.py install
+python3 setup.py install
 ```
 
 
@@ -48,5 +48,5 @@ id time malloc mallocmax event [page]
 ⚠️ Alpha of Alpha version 😉
 
 ```
-python -m mkdocs_plugin_fc_events_chart logfileone.log [logfiletwo.log]
+python3 -m mkdocs_plugin_fc_events_chart logfileone.log [logfiletwo.log]
 ```
