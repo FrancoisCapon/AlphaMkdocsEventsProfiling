@@ -2,6 +2,10 @@
 
 ## Install the Package
 
+* Load the module and install it 
+```
+python setup.py install
+```
 
 
 ## Profil a build
