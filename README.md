@@ -2,13 +2,14 @@
 
 ## Install the Package
 
+
+
 ## Profil a build
 
 * Add the `fc-events-profiling/` to directories
 ```
-content/
+docs/
 fc-events-profiling/
-scripts/
 site/
 mkdocs.yml
 ```
